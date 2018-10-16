@@ -32,7 +32,7 @@ layout: default
                 {% endif %}
                 <tr>
                     <td>Release Date</td>
-                    <td>{{page.release}}</td>
+                    <td>{{page.release | date: "%d %B %Y"}}</td>
                 </tr>
                 <tr>
                     <td>Genre</td>

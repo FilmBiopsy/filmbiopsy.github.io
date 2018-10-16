@@ -4,7 +4,7 @@ uid: 2018-tamil-chekka-chivantha
 title: "Chekka Chivantha Vaanam"
 title_meaning: "Crimson Red Sky"
 language: Tamil
-release: 27th September 2018
+release: 2018-09-27
 Category: Movie
 genre: [Thriller]
 permalink: /movies/tamil/2018/chekka-chivantha

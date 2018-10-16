@@ -12,10 +12,18 @@ a {color: #0c5460}
 #master-section {
   background-color: #173f4f;
   text-align: center;
-  padding: 20vh 0 10vh 0;
+  padding: 5vh 0 10vh 0;
 }
 #master-section h1 {
   color: white;
+}
+#master-section a:hover {
+  text-decoration: none;
+}
+#master-section .card {margin-bottom: 1rem; transition: transform 0.5s;}
+#master-section .card:hover {
+  transform: scale(1.05);
+  transition: transform 0.5s;
 }
 .description {
   color: #dddddd;

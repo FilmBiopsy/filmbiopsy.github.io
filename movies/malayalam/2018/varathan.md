@@ -5,7 +5,7 @@ title_local: "വരത്തന്‍"
 title: "Varathan"
 title_meaning: "Outsider"
 language: malayalam
-release: 20th September 2018
+release: 2018-09-20
 Category: Movie
 genre: [drama, thriller]
 permalink: /movies/malayalam/2018/varathan

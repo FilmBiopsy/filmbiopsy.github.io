@@ -5,7 +5,7 @@ title_local: "കായംകുളം കൊച്ചുണ്ണി"
 title: "Kayamkulam Kochunni"
 title_meaning: "Kayamkulam Kochunni(Name of a thief)"
 language: malayalam
-release: 11th October 2018
+release: 2018-10-11
 Category: Movie
 genre: [epic]
 permalink: /movies/malayalam/2018/kayamkulam-kochunni

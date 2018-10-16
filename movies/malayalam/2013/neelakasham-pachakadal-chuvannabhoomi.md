@@ -5,7 +5,7 @@ title_local: "നീലാകാശം, പച്ചക്കടൽ, ചുവ�
 title: "Neelakasham, Pachakadal, Chuvanna Bhoomi"
 title_meaning: "Blue Sky, Green Sea, Red Earth"
 language: malayalam
-release: 8th August 2013
+release: 2013-08-08
 Category: Movie
 genre: [comedy, thriller]
 permalink: /movies/malayalam/2013/neelakasham
