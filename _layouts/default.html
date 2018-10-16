@@ -1,0 +1,91 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href={{ "assets/style/bootstrap.min.css" | relative_url }} defer>
+    <link rel="stylesheet" href={{ "assets/style/main.css" | relative_url }} defer>
+    <script src={{"/assets/script/jquery-3.3.1.slim.min.js" | relative_url}} defer></script>
+    <script src={{"/assets/script/popper.min.js" | relative_url}} defer></script>
+    <script src={{"/assets/script/bootstrap.min.js" | relative_url}} defer></script>
+    <script src={{"assets/script/main.js" | relative_url }} defer></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <!-- {{page.url}} -->
+    {% seo %}
+</head>
+
+<body>
+    <header>
+        <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="{{site.url}}">
+            <img src="/assets/images/meta/logo.jpg" width="30" height="30" alt="">
+            {{site.title}}
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#osfnavbar" aria-controls="osfnavbar" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="osfnavbar">
+          <ul class="navbar-nav mr-auto">
+           <!--  <li class="nav-item">
+                <a class="nav-link" href="#">Movies</a>
+            </li> -->
+            <li class="nav-item">
+                <a class="nav-link" href="/blog">Reviews</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/about">About</a>
+            </li>
+          <!--   <li class="nav-item">
+                <a class="nav-link" href="#">About</a>
+            </li> -->
+            <!--<li class="nav-item">
+                <a class="nav-link" href="/distribution/">Operating System</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/desktop/">Desktop Environment</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://www.distroscreens.com/">Screenshots
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/blog">Blog
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/page-hit-rank">Page Hit Ranking</a>
+            </li>-->
+        </ul>
+        <!--
+        <ul class="navbar-nav social-icons"> <li> <a rel="nofollow" title="Like us on facebook" target="_blank" href="https://www.facebook.com/opensourcefeed/"> <img alt="FB Link" src="/assets/images/meta/facebook.png"> </a> </li> <li> <a rel="nofollow" title="Follow us on Google+" target="_blank" href="https://plus.google.com/b/114426521113195641057/"> <img alt="G+ Link" src="/assets/images/meta/google-plus.png"> </a> </li> <li> <a rel="nofollow" title="Follow us on Twitter" target="_blank" href="https://twitter.com/opensourcefeed"> <img alt="Twitter Link" src="/assets/images/meta/twitter.png"> </a> </li> <li> <a rel="nofollow" title="Subscribe us on Telegram" target="_blank" href="https://t.me/opensourcefeed"> <img alt="Telegram Link" src="/assets/images/meta/telegram.png"> </a> </li> <li> <a rel="nofollow" title="Subscribe for our RSS" target="_blank" href="/feed.xml"> <img alt="RSS Link" src="/assets/images/meta/rss.png"> </a> </li> </ul>
+    -->
+    </div>
+</nav>
+</header>
+<main class="container-fluid">
+    {{ content }}
+</main>
+<footer>
+    &copy; FilmBiopsy 2018
+</footer>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127514364-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127514364-1');
+</script>
+
+</body>
+
+</html>

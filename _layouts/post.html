@@ -1,0 +1,94 @@
+--- 
+layout: default
+---
+<div class="row">
+	<div class="col-md-8 order-md-1 content">
+		<div class="post">
+
+			<div class="post-header">
+				<div class="post-category">
+					{% assign topage = null %}
+					{% for movie in site.pages %}
+					{% if movie.Category == 'Movie' and movie.uid == page.movie %}
+					{% assign topage = movie %}
+					{% break %}
+					{% endif %}
+					{% endfor %}
+					{% if topage %}
+					<a href="{{topage.url}}">
+						<span>{{topage.title}}</span>
+					</a>
+					{% else %}
+					<span>{{category}}</span>
+					{% endif %}
+					/ {{page.type}}
+				</div>
+				<h1 class="post-title">{{ page.title }}</h1>
+				<hr>
+				<div class="row post-meta">
+					<div class="col-6">
+						<div class="date">{{ page.date | date: "%B %-d, %Y" }}</div>
+					</div>
+					<div class="col-6 text-right">
+						{{page.author}}
+					</div>
+				</div>
+
+
+				<hr>
+			</div>
+
+
+			<article class="post-content">
+				{% if page.credit %}
+				<div class="alert alert-secondary text-sm-center">This review is taken from <a href="{{page.credit}}">{{page.credit}}</a></div>
+				{% endif %}
+				{{ content }}
+
+				{% if page.rating %}
+				<hr>
+				<div class="rating">
+					Rating: {{page.rating}}/5
+					&nbsp;&nbsp;
+					{% for i in (1..5) %}
+					{% if i <= page.rating %}
+					<i class="fas fa-star checked"></i>
+					{% else %}
+					<i class="far fa-star"></i>
+					{% endif %}
+					{% endfor %}
+				</div>
+				
+				{% endif %}
+
+			</article>
+		</div>
+		<hr>
+		{% if site.related_posts %}
+		<div class="related">
+			<h3>Related Stories</h3>
+			<ul>
+				{% for post in site.related_posts limit:6 %}
+				<li>
+					<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+				</li> 
+				{% endfor %}
+			</ul>
+		</div>
+		{% endif %}
+		<!--
+		<div id="disqus_thread"></div>
+		<script>
+			(function() {
+				var d = document, s = d.createElement('script');
+				s.src = 'https://theopensourcefeed.disqus.com/embed.js';
+				s.setAttribute('data-timestamp', +new Date());
+				(d.head || d.body).appendChild(s);
+			})();
+		</script>
+		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+		-->
+</div>
+<div class="col-md-2 order-md-0"></div>
+<div class="col-md-2 order-md-2"></div>
+</div>
