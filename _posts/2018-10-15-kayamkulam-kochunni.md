@@ -13,7 +13,7 @@ rating: 2
 
 ![Kochinni all actor banner](/assets/images/post-images/kochunni/kochunni-05.jpg)
 
-Now coming to this movie which was made on a whooping budget of 45CR, Expectations were skyhigh when we heard Ace Director Roshan Andrews helming the project.  Along with Roshan, we had his buddy set of Bobby-Sanjay scripting the movie.  The team of Roshan Andrews -Bobby Sanjay were famous for socially relevant movies.  Producer Gokulam Gopalan is known for producing All time classic named “Pazhassiraaja”. 
+Now coming to this movie which was made on a whooping budget of 45CR, expectations were skyhigh when we heard Ace Director Roshan Andrews helming the project.  Along with Roshan, we had his buddy set of Bobby-Sanjay scripting the movie.  The team of Roshan Andrews -Bobby Sanjay were famous for socially relevant movies.  Producer Gokulam Gopalan is known for producing All time classic named “Pazhassiraaja”. 
 
 ### Plot   
 
@@ -36,6 +36,10 @@ Priya Anand as Janaki looked more like an Urban girl and doesn’t even suit rol
 Babu Antony was real surprise of this movie. He showed glimpse of his action sequences very well. 
 
 Sunny Wayne did his part well. 
+
+### Direction
+Roshan Andrews has been a good director who used to make socially relevant and quality movies. He proved that its tough for him to do historical based movies. He tried his best but didn't met expectations. Hariharan sir and Santhosh Shivan were proven Film makers on History genre. So When we compare Roshan was not able to keep that standards which Hariharan and Santhosh Shivan kept while making such 
+Big Budget history based movies.
 
 ### Finalcut
 
