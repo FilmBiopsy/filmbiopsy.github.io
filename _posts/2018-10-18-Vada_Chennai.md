@@ -1,5 +1,5 @@
 ---
-title: "Vada Chennai"
+title: "Vada Chennai - Best Raw Gangster movie till date"
 layout: post
 movie: 2018-vadachennai
 type: Review
