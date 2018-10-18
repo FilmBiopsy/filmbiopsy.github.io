@@ -6,7 +6,7 @@ type: Review
 image: "/assets/images/post-images/vada-chennai/VADA-F.jpg"
 author: Kiran Viswanath
 categories: 2018-vadachennai
-rating: 4.5
+rating: 4
 ---
 
 **Vada Chennai** is a gangster based movie which was in making for some span. We have been reading about it for sometime.
@@ -17,7 +17,7 @@ From a performer like Dhanush and a master director like Vetrimaaran, we would e
 
 ### Plot
 
-Movie follows a non-linear pattern which revolves around certain timeline, covers almost main events in TamilNadu Politics. Characterization has been raw and will impress our mind with north chennai slang and jail sequences especially gangsters and their mannerisms.
+Movie follows a non-linear pattern which revolves around certain timeline, covers almost main events in TamilNadu politics. Characterization has been raw and will impress our mind with north chennai slang and jail sequences especially gangsters and their mannerisms.
 
 A Gangster movie which has maintained the class can definitely be compared with Anurag Kashyap’s “Gangs of Wasseypur”. 
 
