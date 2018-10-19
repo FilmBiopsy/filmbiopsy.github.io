@@ -12,7 +12,7 @@ permalink: /about
       </div>
       <article class="post-content">
        <img src="/assets/images/meta/logo.jpg" id="logo" alt="FilmBiopsy logo">
-       <strong>A</strong> team of moviebuffs who used to review movies started a reviewpage on early 2011. Due to their personal works page was not maintained and got expired. Now the team is back to do the surgery of films they watch. Have a roll guys..
+       <strong>A</strong> team of moviebuffs who used to review movies started a review page on early 2011. Due to their personal works page was not maintained and got expired. Now the team is back to do the surgery of films they watch. Have a roll guys..
        <div class="reviewers">
          <h3>Authors</h3>
          <ol>
