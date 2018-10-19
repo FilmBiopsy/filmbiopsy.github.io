@@ -16,10 +16,10 @@ permalink: /about
        <div class="reviewers">
          <h3>Authors</h3>
          <ol>
-           <li>Kiran Vishwanath</li>
-           <li>Vishnu Aikara</li>
-           <li>Manu Francis</li>
-           <li>Khalid Ahammed</li>
+           <li>Kiran Vishwanath - Main reviewer(Reviews all language movies)</li>
+           <li>Vishnu Aikara - Malayalam and Tamil movies</li>
+           <li>Manu Francis - Hindi movies</li>
+           <li>Khalid Ahammed - English movies</li>
          </ol>
        </div>
      </article>
