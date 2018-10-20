@@ -8,7 +8,7 @@ release: 2018-10-05
 Category: Movie
 genre: [Thriller]
 permalink: /movies/tamil/2018/ratsasan
-image: /assets/images/post-images/ratsasan/ratsasan.jpg
+image: /assets/images/post-images/vada-chennai/Ratsasan-Movie-poster3.jpg
 description: Ratsasan (Devil) is a psycho thriller film  directed by Ramkumar.
 ---
 
