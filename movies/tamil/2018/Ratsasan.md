@@ -12,4 +12,4 @@ image: /assets/images/post-images/vada-chennai/Ratsasan-Movie-poster3.jpg
 description: Ratsasan (Devil) is a psycho thriller film  directed by Ramkumar.
 ---
 
-Vada Chennai (North Chennai) is a gangster action film written and directed by Veterimaran. It stars Dhanush in the lead role.
+Ratsasan (devil) is a psycho thriller film  directed by Ramkumar. It stars Vishnu and Amala Paul in the lead role.
