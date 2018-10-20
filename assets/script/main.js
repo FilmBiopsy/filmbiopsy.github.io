@@ -51,4 +51,15 @@ $(function () {
           $('.navbar').removeClass('navbar-small');
       }
   });
+
+    $(function() {
+     var rating = $('#rating-value').val();
+     if (rating > 0) {
+      $('#rating').barrating({
+        theme: 'fontawesome-stars-o',
+        initialRating: rating,
+        readonly: true
+    });
+  }
+});
 });

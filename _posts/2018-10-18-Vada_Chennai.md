@@ -6,7 +6,7 @@ type: Review
 image: "/assets/images/post-images/vada-chennai/VADA-F.jpg"
 author: Kiran Viswanath
 categories: 2018-vadachennai
-rating: 4
+rating: 4.5
 ---
 
 **Vada Chennai** is a gangster based movie which was in making for some span. We have been reading about it for sometime.
