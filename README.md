@@ -1,5 +1,3 @@
-# OpenSourceFeed
+# FilmBiopsy
 
-Free & Open Source Software Showcase.
-
-Hosted at http://theopensourcefeed.com
+Collection of World Movies, with authentic reviews
