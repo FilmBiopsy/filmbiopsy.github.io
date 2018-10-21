@@ -1,4 +1,4 @@
-body {font-size: 1rem; line-height: 2rem}
+body {font-size: 1.1rem;line-height: 2rem}
 a {color: #0c5460}
 .navbar-brand {color:white !important;}
 .navbar-dark .navbar-nav .nav-link {color:rgba(255, 255, 255, 0.8);}
@@ -104,9 +104,7 @@ a {color: #0c5460}
 .post-header a:hover{text-decoration:none;}
 .post-header .post-meta {font-size:.9rem;}
 .post-header .post-category {font-size: 0.9rem; text-align: center; margin-top:1rem;line-height:1.5rem}
-.post-content{font-size:1em;line-height:1.7em;}
 .post-content img{max-width:100%;display:block;margin:auto}
-.post-content p{font-size: 1.1rem;line-height:2rem}
 .post-content h3{font-size:1.5rem;margin-top:2rem; margin-bottom: 1.5rem}
 .lastUpdated{font-size:16px;color:#777;}
 blockquote{position:relative;margin:0;font-weight:400;text-align:justify;padding:15px;color:#000;background:#f0f0f0;}
@@ -165,6 +163,9 @@ main .recent-stories ul{list-style-type: none; padding-left: 0}
     font-weight: normal
   }
   #search-btn {display: none}
+  body {
+    font-size: 1rem;
+  }
 }
 
 @media (max-width: 360px) {
