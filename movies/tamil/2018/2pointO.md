@@ -8,7 +8,7 @@ release: 2018-11-29
 Category: Movie
 genre: [SCI-FI]
 permalink: /movies/tamil/2018/2pointO
-image: /assets/images/post-images/vada-chennai/2point).jpg
+image: /assets/images/post-images/vada-chennai/2pointO.jpg
 description: 2pointO (robot version name) is a sci-fi thriller film  directed by Shankar.
 ---
 
