@@ -24,9 +24,9 @@ locations:
       - date: 15 December 2018
         amount: 2.11
       - date: 16 December 2018
-        amount: 1.43
+        amount: 1.81
       - date: 17 December 2018
-        amount: .65
+        amount: .45
       - date: 18 December 2018
-        amount: .39
+        amount: .32
 ---
