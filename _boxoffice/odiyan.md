@@ -15,7 +15,7 @@ locations:
       - date: 17 December 2018
         amount: 1.05
         date: 18 December 2018
-        amount: .77
+        amount: 0.77
   - name: Kochi Multiplex
     denomination: Lakhs
     collection:
