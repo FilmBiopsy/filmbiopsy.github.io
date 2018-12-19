@@ -7,13 +7,15 @@ locations:
     denomination: Cr
     collection:
       - date: 14 December 2018
-        amount: 7.24
+        amount: 5.68
       - date: 15 December 2018
-        amount: 4.33
+        amount: 3.49
       - date: 16 December 2018
-        amount: 4.49
+        amount: 3.65
       - date: 17 December 2018
-        amount: 1.27
+        amount: 1.05
+        date: 18 December 2018
+        amount: .77
   - name: Kochi Multiplex
     denomination: Lakhs
     collection:
