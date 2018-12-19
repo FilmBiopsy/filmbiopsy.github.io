@@ -11,29 +11,17 @@ permalink: /boxoffice-collection
         <hr>
       </div>
       <article class="post-content">
-        <table class="table">
-          <thead>
-            <th>S.No</th>
-            <th>Movie</th>
-            <th>Collection in Kerala</th>
-            <th>Collection outside Kerala, in India</th>
-            <th>Collection outside India</th>
-            <th>Total</th>
-          </thead>
-          <tbody>
-            <tr>
-              <td>1.</td>
-              <td>My Dear ABCD</td>
-              <td>12 Cr</td>
-              <td>15 Cr</td>
-              <td>30 Cr</td>
-              <td>57 Cr</td>
-            </tr>
-          </tbody>
-        </table>
+        <ul>
+          {% for collection in site.boxoffice %}
+            <li><a href="{{collection.url}}">{{collection.title}}</a></li>
+          {% endfor %}
+        </ul>
       </article>
     </div>
   </div>
   <div class="col-md-2 order-md-0"></div>
   <div class="col-md-2 order-md-2"></div>
 </div>
+<style>
+  .fill-page {height: -webkit-fill-available}
+</style>

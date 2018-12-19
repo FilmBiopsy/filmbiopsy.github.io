@@ -17,6 +17,18 @@ layout: default
                 </a>
             </div>
             <br/>
+
+            
+            {% for collection in site.boxoffice %}
+                {% if collection.uid == page.uid %}
+                    {% assign boxoffice = collection.url %}
+                    {% break %}
+                {% endif %}
+            {% endfor %}
+            {% if boxoffice %}
+                <a href={{boxoffice}}>Box Office collection for {{page.title}}</a>
+            {% endif %}
+
              <table class="table table-striped">
                 {% if page.title_local %}
                 <tr>

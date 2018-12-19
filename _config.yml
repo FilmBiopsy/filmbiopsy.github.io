@@ -52,6 +52,11 @@ plugins:
 paginate: 20
 paginate_path: '/blog/:num/'
 
+collections:
+  boxoffice:
+    output: true
+    permalink: /boxoffice/:path
+
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set

@@ -1,0 +1,47 @@
+---
+layout: default
+name: Box Office Collection for {{page.name}}
+---
+<div class="row">
+	<div class="col-md-12">
+		<div class="post">
+			<div class="post-header">
+			<h1 class="post-title">{{page.name}} Box Office Collection</h1>
+			</div>
+			<hr>
+			{% for location in page.locations %}
+			<h2>{{location.name}} Collection</h2>
+			<table class="table table-bordered table-sm">
+				<thead>
+					<th>Day</th>
+					<th>Date</th>
+					<th>Collection</th>
+					<th>Gross</th>
+				</thead>
+				<tbody>
+					{% assign day = 0 %}
+					{% assign gross = 0 %}
+					{% for daily in location.collection%}
+						{% assign day = day | plus: 1 %}
+						{% assign gross = gross | plus: daily.amount%}
+						<tr>
+							<td>{{day}}</td>
+							<td>{{daily.date}}</td>
+							<td>{{daily.amount}} {{location.denomination}}</td>
+							<td>{{gross}} {{location.denomination}}</td>
+						</tr>
+					{% endfor %}
+				</tbody>
+			</table>
+			{% endfor %}
+		</div>
+	</div>
+</div>
+<style>
+	.table thead th {
+		border-bottom: 2px solid #0084b4;
+	}
+	.table-bordered th, .table-bordered td {
+		border: 1px solid #0084b4;
+	}
+</style>

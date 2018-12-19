@@ -22,7 +22,12 @@ layout: compress
 
     
     <!-- {{page.url}} -->
+    {% if page.layout == 'collection' %}
+    <title>{{page.name}} - Box Office Collection</title>
+    {% seo title=false%}
+    {% else %}
     {% seo %}
+    {% endif %}
 </head>
 
 <body>
