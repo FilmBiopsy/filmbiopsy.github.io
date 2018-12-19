@@ -2,6 +2,7 @@
 layout: collection
 name: Odiyan
 uid: 2018-ml-odiyan
+(/assets/images/post-images/kochunni/kochunni-05.jpg)
 locations:
   - name: Kerala Box Office
     denomination: Cr
