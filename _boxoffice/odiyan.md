@@ -29,4 +29,17 @@ locations:
         amount: .45
       - date: 18 December 2018
         amount: .32
+  - name: Rest Of India Box Office 
+    denomination: Cr
+    collection:
+      - date: 14 December 2018
+        amount: 1.6
+      - date: 15 December 2018
+        amount: 1.1
+      - date: 16 December 2018
+        amount: 1.3
+      - date: 17 December 2018
+        amount: .18
+      - date: 18 December 2018
+        amount: .13  
 ---
