@@ -16,15 +16,17 @@ locations:
         amount: 1.05
       - date: 18 December 2018
         amount: 0.77
-  - name: Kochi Multiplex
-    denomination: Lakhs
+  - name: Overseas Box Office 
+    denomination: Cr
     collection:
       - date: 14 December 2018
-        amount: 12.66
+        amount: 8.12
       - date: 15 December 2018
-        amount: 17.79
+        amount: 2.11
       - date: 16 December 2018
-        amount: 17.59
+        amount: 1.37
       - date: 17 December 2018
-        amount: 7.6
+        amount: .35
+      - date: 18 December 2018
+        amount: .19
 ---
