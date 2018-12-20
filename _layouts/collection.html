@@ -1,7 +1,7 @@
 ---
 layout: default
 name: Box Office Collection for {{page.name}}
-image: /assets/images/post-images/odiyan.jpg
+
 
 ---
 <div class="row">
@@ -14,7 +14,7 @@ image: /assets/images/post-images/odiyan.jpg
 			<p>Odiyan is currently highest first day grossing malayalam movie which released in 417 Screens.
 			Movie had 1851 shows on Day1. Despite harthal, Movie had immense occupancy due to hype surrounding the movie. 
 			</p>	
-			
+			<img src="{{page.image}}"/> 
 			{% for location in page.locations %}
 			<h2>{{location.name}} Collection</h2>
 			<table class="table table-bordered table-sm">
