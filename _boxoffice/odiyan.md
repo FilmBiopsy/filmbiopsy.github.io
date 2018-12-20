@@ -18,6 +18,10 @@ locations:
         amount: 1.05
       - date: 18 December 2018
         amount: 0.77
+      - date: 19 December 2018
+        amount: 0.51
+      - date: 20 December 2018
+        amount: 0.43  
   - name: Overseas Box Office 
     denomination: Cr
     collection:
