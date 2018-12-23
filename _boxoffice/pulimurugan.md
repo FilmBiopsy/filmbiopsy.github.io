@@ -16,7 +16,7 @@ locations:
       - date: 09 October 2016
         amount: 4.18
       
-      Kerala Gross : 60.43 Crores.
+      
       
   - name: Overseas Box Office 
     denomination: Cr
@@ -30,6 +30,9 @@ locations:
       - date: 17 January 2017
         amount: 4.35
       
+      Kerala Gross : 60.43 Crores.
+      Overseas Box Office :20.12 Crores
+      Rest Of India Box Office (Malayalam Version)
       Telugu & Tamil dubbed version : 4.2 Crores.
       Total BoxOffice Gross: 89.02 Crores.
 ---
