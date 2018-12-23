@@ -4,7 +4,10 @@ name: Pulimurugan
 uid: 2018-ml-pulimurugan
 image: /assets/images/post-images/pulimurugan.jpg
 desc: Pulimurugan stands as biggest hit of Ace Actor Mohanlal's career. Movie which was made on a budget of 25 CR did a bussinees of 100 CR.
-
+kerala: 60.43 Crores
+overseas: 20.12 Crores
+roi: 5.35 Crores
+dubbed: 4.2 Crores
 locations:
   - name: Kerala Box Office
     denomination: Cr
@@ -33,8 +36,4 @@ locations:
     
 ---
 
-      Kerala Gross : 60.43 Crores.
-      Overseas Box Office :20.12 Crores
-      Rest Of India Box Office (Malayalam Version)
-      Telugu & Tamil dubbed version : 4.2 Crores.
-      Total BoxOffice Gross: 89.02 Crores.
+      
