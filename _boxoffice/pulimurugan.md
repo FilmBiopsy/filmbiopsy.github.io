@@ -15,8 +15,8 @@ locations:
         amount: 3.67
       - date: 09 October 2016
         amount: 4.18
-      - date: 17 January 2017
-        amount: 56.13
+      
+      Kerala Gross : 60.43 Crores.
       
   - name: Overseas Box Office 
     denomination: Cr
@@ -24,10 +24,12 @@ locations:
       - date: 17 January 2017
         amount: 20.12
       
-  - name: Rest Of India Box Office 
+  - name: Rest Of India Box Office (Malayalam Version)
     denomination: Cr
     collection:
       - date: 17 January 2017
-        amount: 5.35
+        amount: 4.35
       
+      Telugu & Tamil dubbed version : 4.2 Crores.
+      Total BoxOffice Gross: 89.02 Crores.
 ---
