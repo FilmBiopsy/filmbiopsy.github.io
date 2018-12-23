@@ -31,7 +31,7 @@ locations:
   - name: Rest Of India Box Office 
     denomination: Cr
     collection:
-      - date: 16 May 2017
+      - date: 30 April 2017
         amount: 6.90
       
 ---
