@@ -7,7 +7,8 @@ desc: Pulimurugan stands as biggest hit of Ace Actor Mohanlal's career. Movie wh
 kerala: 60.43 Crores
 overseas: 20.12 Crores
 roi: 5.35 Crores
-dubbed: 4.2 Crores
+dubbed: 3.2 Crores
+total: 89.1 Crores
 locations:
   - name: Kerala Box Office
     denomination: Cr
