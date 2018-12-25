@@ -2,7 +2,7 @@
 layout: collection
 name: Abrahaminte Santhathikal
 uid: 2018-ml-abrahamintesanthathikal
-image: /assets/images/post-images/abrahamintesanthathikal.jpg
+image: /assets/images/post-images/abrahamintesanthathikal2.jpg
 desc: Abrahaminte Santhathikal is biggest hit in career of Ace Actor Mammootty. It did a total bussiness of 82 Cr as per our sources.
 kerala: 48.92 Crores
 overseas: 14.12 Crores
