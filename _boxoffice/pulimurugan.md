@@ -1,9 +1,6 @@
 ---
 layout: collection
-name: Pulimurugan
 uid: 2018-ml-pulimurugan
-image: /assets/images/post-images/pulimurugan2.jpg
-desc: Pulimurugan stands as biggest hit of Ace Actor Mohanlal's career. Movie which was made on a budget of 25 CR did a business of 100 CR.
 kerala: 60.43 Crores
 overseas: 20.12 Crores
 roi: 5.35 Crores

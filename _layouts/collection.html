@@ -4,15 +4,27 @@ name: Box Office Collection for {{page.name}}
 
 
 ---
+{% assign movie = nil %}
+{% for movie in site.pages %}
+  {% if movie.uid == page.uid %}
+  {% assign current_movie = movie %}
+  {% break %}
+  {% endif %}
+{% endfor %}
 <div class="row">
 	<div class="col-md-12">
 		<div class="post">
 			<div class="post-header">
-			<h1 class="post-title">{{page.name}} Box Office Collection</h1>
+			<h1 class="post-title">{{current_movie.title}} Box Office Collection</h1>
 			</div>
 			<hr>
-			<p> {{page.desc}}</p>	
-			<img src="{{page.image}}"/> 
+			<div class="img-container">
+			<img src="{{current_movie.image}}"/>
+			</div> 
+			<p> {{current_movie.description}}</p>
+			<div class="more-info">
+				<a href="{{current_movie.url}}">More Info</a>
+			</div>
 			{% for location in page.locations %}
 			<h2>{{location.name}} Collection</h2>
 			<table class="table table-bordered table-sm">
@@ -54,6 +66,18 @@ name: Box Office Collection for {{page.name}}
 	}
 	.table-bordered th, .table-bordered td {
 		border: 2px solid #F26968;
+	}
+	.img-container {
+		background: black;
+	}
+	.more-info {
+		text-align: center;
+	}
+	.more-info a{
+		background: #0084b4;
+		color: white;
+		padding: .5em;
+		margin: auto;
 	}
 	.post img{max-width:100%; margin: auto; display: block}
 </style>

@@ -1,9 +1,6 @@
 ---
 layout: collection
-name: Great Father
-uid: 2018-ml-greatfather
-image: /assets/images/post-images/greatfather.jpg
-desc: Great Father is directed by debutant director Hanef Adeni. It was first Mammootty movie to enter 50 Crore Club. Movie was made on a budget of 6 Crore.
+uid: 2017-tgf
 kerala: 38.38 Crores
 overseas: 19.75 Crores
 roi: 6.90 Crores

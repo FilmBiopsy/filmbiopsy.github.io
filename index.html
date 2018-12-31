@@ -5,14 +5,14 @@ description: Collection of movies, actors, reviews and other related stuff.
 
 <div class="row" id="master-section">
     {% assign movies = site.pages | sort: "release" | reverse%}
-    {% for page in movies %}
+    {% for page in movies limit: 12 %}
     {% if page.Category == 'Movie'%}
     <div class="col-md-3">
         <a href="{{page.url}}">
             <div class="card">
                 <img class="card-img-top" src="{{page.image}}" alt="{{page.title}} banner">
                 <div class="card-body">
-                    <h2 class="card-title">{{page.title}}</h2>
+                    <h2 class="card-title">{{page.title}}<br/>({{page.release | date: "%Y"}})</h2>
                 </div>
             </div>
         </a>

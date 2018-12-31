@@ -1,6 +1,6 @@
 ---
 layout: movie
-uid: 2018-kochunni
+uid: 2018-ml-kayamkulamkochunni
 title_local: "കായംകുളം കൊച്ചുണ്ണി"
 title: "Kayamkulam Kochunni"
 title_meaning: "Kayamkulam Kochunni(Name of a thief)"

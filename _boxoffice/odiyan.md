@@ -2,8 +2,6 @@
 layout: collection
 name: Odiyan
 uid: 2018-ml-odiyan
-image: /assets/images/post-images/odiyan.jpg
-desc: Odiyan is currently highest first day grossing malayalam movie which released in 417 Screens.Movie had 1851 shows on Day1. Despite harthal, Movie had immense occupancy due to hype surrounding the movie.Movie was made on a whooping budget of 50CR INR.
 locations:
   - name: Kerala Box Office
     denomination: Cr

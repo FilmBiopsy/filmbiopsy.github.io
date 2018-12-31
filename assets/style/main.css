@@ -92,6 +92,10 @@ a {color: #0c5460}
 }
 .stories .story {
   padding-bottom: 1rem;
+  border: 1px solid rgba(0, 132, 170, 0.1);
+  padding: .5em;
+  margin: .2em;
+  border-radius: .5em;
 }
 .story p{font-size:16px; line-height: 1.5rem}
 

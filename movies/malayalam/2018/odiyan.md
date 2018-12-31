@@ -10,7 +10,7 @@ Category: Movie
 genre: [fantasy, thriller]
 permalink: /movies/malayalam/2018/odiyan
 image: /assets/images/post-images/odiyan.jpg
-description: "Odiyan is a malayalam fantasic thriller movie starring Mohanlal"
+description: Odiyan is currently highest first day grossing malayalam movie which released in 417 Screens.Movie had 1851 shows on Day1.
 ---
 
-Odiyan is a malayalam fantasic thriller movie starring Mohanlal
+Odiyan is currently highest first day grossing malayalam movie which released in 417 Screens.Movie had 1851 shows on Day1. Despite harthal, Movie had immense occupancy due to hype surrounding the movie.Movie was made on a whooping budget of 50CR INR.

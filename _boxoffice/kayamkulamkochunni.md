@@ -1,9 +1,6 @@
 ---
 layout: collection
-name: Kayamkulam Kochunni
 uid: 2018-ml-kayamkulamkochunni
-image: /assets/images/post-images/kayamkulamkochunni.jpg
-desc: Kayamkulam Kochunni is big budget movie made on budget of 45 Crores.
 kerala: 41.29 Crores
 overseas: 15.38 Crores
 roi: 4.7 Crores
