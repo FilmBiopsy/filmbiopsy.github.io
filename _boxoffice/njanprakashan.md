@@ -1,4 +1,3 @@
-
 ---
 layout: collection
 name: Njan Prakashan
@@ -24,7 +23,7 @@ locations:
         amount: 2.47
       - date: 14 February 2019
         amount: 22.68
- - name: Overseas Box Office 
+  - name: Overseas Box Office 
     denomination: Cr
     collection:
       - date: 14 February 2019
