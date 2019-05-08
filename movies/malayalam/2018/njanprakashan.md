@@ -11,4 +11,4 @@ genre: [comedy,family]
 permalink: /movies/malayalam/2018/njanprakashan
 image: /assets/images/post-images/njanprakashan.jpg
 description: Njan Prakashan is family based feel good movie directed by Sathyan Anthikad. Fahad, Nikhila & Sreenivaasan were main starcast.
-
+---
