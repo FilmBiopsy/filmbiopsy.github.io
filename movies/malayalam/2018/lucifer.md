@@ -2,7 +2,7 @@
 layout: movie
 uid: 2018-ml-lucifer
 title_local: ""
-title: "LUCIFER"
+title: "Lucifer"
 title_meaning: "Devil's other name"
 language: malayalam
 release: 2018-04-28
