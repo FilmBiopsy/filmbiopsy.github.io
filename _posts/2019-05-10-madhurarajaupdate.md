@@ -1,7 +1,7 @@
 ---
 title: "MadhurRaja crosses 70 Crore from Worldwide"
 layout: post
-movie: 2018-kochunni
+movie: 2018-madhurarajas
 type: Review
 image: "/assets/images/post-images/kochunni/kochunni-05.jpg"
 author: Kiran Viswanath
