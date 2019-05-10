@@ -12,7 +12,9 @@ permalink: /about
       </div>
       <article class="post-content">
        <img src="/assets/images/meta/logo.jpg" id="logo" alt="FilmBiopsy logo">
-       <strong>A</strong> team of moviebuffs who used to review movies and write film based articles in different online portals have come together for filmbiopsy. Regarding BoxOffice collections we collect it from indepedent sources from film field. We do verify collection provided with respective film team. For any information or clarification, please write to <a href=mailto:filmbiopsy@gmail.com?subject="HTML link">Click here to send us an email!!!</a>
+       <strong>A</strong> team of moviebuffs who used to review movies and write film based articles in different online portals have come together for filmbiopsy. Regarding BoxOffice collections we collect it from indepedent sources from film field. We do verify collection provided with respective film team. For any information or clarification, please write to <a href="mailto:filmbiopsy@gmail.com">Send mail</a>
+
+
        <div class="reviewers">
          <h3>Authors</h3>
          <ol>
