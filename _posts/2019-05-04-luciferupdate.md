@@ -9,7 +9,7 @@ categories: 2018-lucifer
 rating: 3
 ---
 
-Lucifer which released on March 28 has crossed 95 Crores from Worldwide Boxoffice. 
+Lucifer which released on March 28 has crossed 96 Crores from Worldwide Boxoffice. 
 It collected more than 50 Crore from Kerala boxoffice from 30,000 shows. 
 
 Rest of India figure is around 7.2 Crore from Rest Of India from 5000+ shows with around 3 Crore coming from Karnataka region. 
