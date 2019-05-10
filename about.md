@@ -12,14 +12,14 @@ permalink: /about
       </div>
       <article class="post-content">
        <img src="/assets/images/meta/logo.jpg" id="logo" alt="FilmBiopsy logo">
-       <strong>A</strong> team of moviebuffs who used to review movies started a review page on early 2011. Due to their personal works page was not maintained and got expired. Now the team is back to do the surgery of films they watch. Have a roll guys..
+       <strong>A</strong> team of moviebuffs who used to review movies and write film based articles in different online portals have come together for filmbiopsy. Regarding BoxOffice collections we collect it from indepedent sources from film field. We do verify collection provided with respective film team. For any information or clarification, please write to <a href="mailto: filmbiopsy@gmail.com?subject=subject text">
        <div class="reviewers">
          <h3>Authors</h3>
          <ol>
            <li>Kiran Vishwanath - Main reviewer(Reviews all language movies)</li>
            <li>Vishnu Aikara - Malayalam and Tamil movies</li>
            <li>Manu Francis - Hindi movies</li>
-           <li>Khalid Ahammed - English movies</li>
+           
          </ol>
        </div>
      </article>
