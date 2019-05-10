@@ -1,14 +1,14 @@
 
 
 ---
-title: "MadhuraRaja crosses 70 Crore from Worldwide Boxoffice."
+title: "MadhuraRaja crosses 70 Crore from Worldwide Boxoffice"
 layout: post
 movie: 2019-madhuraraja
-type: Review
+type: Article
 image: "/assets/images/post-images/madhuraraja.jpg"
 author: Kiran Viswanath
 categories: 2018-madhuraraja
-rating: 3
+
 ---
 
 **Madhuraraja** which released on April 12 has crossed 73 Crores from Worldwide Boxoffice. It collected close to 50 Crore from Kerala boxoffice
