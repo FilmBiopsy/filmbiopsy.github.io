@@ -1,6 +1,6 @@
 ---
 layout: collection
-name: Lucifer
+name: MadhuraRaja
 uid: 2018-ml-madhuraraja
 kerala: 49.70 Crores
 overseas: 18.27 Crores
