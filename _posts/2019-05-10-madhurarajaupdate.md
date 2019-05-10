@@ -1,5 +1,5 @@
 ---
-title: "Kayamkulam Kochunni"
+title: "MadhurRaja crosses 70 Crore from Worldwide"
 layout: post
 movie: 2018-kochunni
 type: Review
