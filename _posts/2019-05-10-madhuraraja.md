@@ -1,6 +1,6 @@
 
 ---
-title: "MadhuraRaja crosses 70 Crore from Worldwide Boxoffice"
+title: "MadhuraRaja"
 layout: post
 movie: 2019-madhuraraja
 type: Review
