@@ -1,12 +1,12 @@
 ---
 title: "MadhurRaja crosses 70 Crore from Worldwide"
 layout: post
-movie: 2018-madhurarajas
+movie: 2018-madhuraraja
 type: Review
-image: "/assets/images/post-images/kochunni/kochunni-05.jpg"
+image: "/assets/images/post-images/madhuraraja.jpg"
 author: Kiran Viswanath
-categories: 2018-kochunni
-rating: 2
+categories: 2018-madhuraraja
+rating: 3
 ---
 
 **In** Aithihyamaala, we all have read about Legend of Kayamkulam Kochunni. Infact Legendary Actor Sathyan Maashu once mesmerized us with his awestruck performance.  It laid a template for Robinhood based movies.  After that when miniscreen revolution took over Malayalam audience, we have seen  Kayamkulam Kochunni in TV from our drawing rooms which made Kochunni a household hero among kids born post 2000 AD. Manikuttan who enacted young kochunni became a hero among masses,thus laying his entry to Malayalam film industry as an actor.  
