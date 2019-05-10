@@ -16,7 +16,7 @@ Rest of India figure is around 7.2 Crore from Rest Of India from 5000+ shows wit
 It collected 2 Cr from Tamilnaadu, while around 2 Cr from Mumbai, Delhi & other North circuits. 
 
 Its UAE collection is around 21 Cr, while rest of GCC region collected 7.3 Crores. North America,European region,
-African region,Srilanka & Asia Pacific region made a collective figure of 8 Crores.
+African region & Asia Pacific region made a collective figure of 8 Crores.
 
 As of now, Lucifer is biggest ever grosser of Mohanlal's career surpassing Pulimurugan(89 Crore).
 We rate Lucifer 3.5 stars.
