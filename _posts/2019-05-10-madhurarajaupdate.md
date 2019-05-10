@@ -1,5 +1,5 @@
 ---
-title: "MadhurRaja crosses 70 Crore from Worldwide"
+title: "MadhurRaja collection crosses 70 Crore from Worldwide"
 layout: post
 movie: 2018-madhuraraja
 type: Review
