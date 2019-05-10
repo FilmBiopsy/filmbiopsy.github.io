@@ -3,10 +3,10 @@ layout: collection
 name: Lucifer
 uid: 2018-ml-lucifer
 kerala: 52.60 Crores
-overseas: 36.1 Crores
-roi: 6.2 Crores
+overseas: 36.3 Crores
+roi: 7.2 Crores
 dubbed(telugu): 42 lakhs
-total: 95.32 Crores
+total: 96.52 Crores
 locations:
   - name: Kerala Box Office
     denomination: Cr
