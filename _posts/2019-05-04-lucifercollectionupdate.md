@@ -2,7 +2,7 @@
 title: "Lucifer collection crosses 90 Crore Worldwide"
 layout: post
 movie: 2018-lucifer
-type: Review
+type: News
 image: "/assets/images/post-images/lucifer.jpg"
 author: Kiran Viswanath
 categories: 2018-lucifer
