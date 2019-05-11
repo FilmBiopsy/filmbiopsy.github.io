@@ -5,7 +5,7 @@ title_local: ""
 title: "Lucifer"
 title_meaning: "Devil's other name"
 language: malayalam
-release: 2019-04-28
+release: 2019-03-28
 Category: Movie
 genre: [thriller,crime,politics]
 permalink: /movies/malayalam/2018/lucifer
