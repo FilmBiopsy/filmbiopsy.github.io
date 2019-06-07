@@ -1,5 +1,5 @@
 ---
-title: "Thottappan  –  Movie made with perfection"
+title: "Thottappan"
 layout: post
 movie: 2019-thottappan
 type: Review
