@@ -32,11 +32,8 @@ layout: compress
 
 <body>
     <header>
-        <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
-            <a class="navbar-brand" href="{{site.url}}">
-            <img src="/assets/images/meta/logo.jpg" width="30" height="30" alt="">
-            {{site.title}}
-            </a>
+        <nav class="container-fluid navbar navbar-expand-xl navbar-dark bg-dark">
+            <a class="navbar-brand" href="{{site.url}}"><img src="/assets/images/meta/logo.jpg"/>FilmBiopsy</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#osfnavbar" aria-controls="osfnavbar" aria-expanded="false"
             aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -101,9 +98,15 @@ layout: compress
     </div>
 </nav>
 </header>
+{% if page.url == '/' %}
 <main class="container-fluid">
     {{ content }}
 </main>
+{% else %}
+<main class="container">
+    {{ content }}
+</main>
+{% endif %}
 <footer>
     &copy; FilmBiopsy 2018
 </footer>

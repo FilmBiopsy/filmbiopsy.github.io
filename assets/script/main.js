@@ -46,9 +46,11 @@ $(function () {
     $(window).scroll(function () {
         if ($(document).scrollTop() > 50) {
           $('.navbar').addClass('navbar-small');
+          $('main').css('margin-top', '100px');
       }
       else {
           $('.navbar').removeClass('navbar-small');
+          $('main').removeAttr('style');
       }
   });
 
