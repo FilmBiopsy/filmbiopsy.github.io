@@ -83,10 +83,6 @@ a:hover {color: #35b9ab}
   font-weight: normal;
 }
 /* Stories*/
-.stories {
-  padding: 1rem;
-  background: white;
-}
 .stories h2 {
   font-size: 1.5rem;
   margin-top: 1rem;
@@ -153,6 +149,7 @@ footer{text-align:center;background:#173f4f;color:white;padding:10px 0 10px 0;}
 .blog .page-nav {text-align: center}
 .comment-area h3 {font-size: 1.3rem;}
 main {border: 1px solid #eee}
+main.container-fluid {background: white}
 main h3, main h4 {font-weight: bold;}
 main h2 {font-size: 1.4em; color: #173f4f}
 main h3 {font-size: 1.2em; margin: 2em 0 1rem}

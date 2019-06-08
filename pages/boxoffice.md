@@ -35,7 +35,7 @@ permalink: /boxoffice-collection
           {% endfor %}
           </ul>
           <hr>
-          <h2>Top 10 Box Office Collections in 2018</h2>
+          <h2>Top Box Office Collections in 2019</h2>
           <ul>
           {% for collection in sorted %}
             {% assign movie = nil %}
@@ -46,7 +46,7 @@ permalink: /boxoffice-collection
               {% endif %}
             {%endfor %}
             {% assign release = movie.release | date: "%Y" %}
-            {% if movie == nill or collection.total == nil or  release != '2018' %}
+            {% if movie == nill or collection.total == nil or  release != '2019' %}
             {% continue %}
             {% endif %}
             <li>
