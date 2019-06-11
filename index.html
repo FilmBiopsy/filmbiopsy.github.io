@@ -5,7 +5,7 @@ description: Collection of movies, actors, reviews and other related stuff.
 
 <div class="row" id="master-section">
     {% assign movies = site.pages | sort: "release" | reverse%}
-    {% for page in movies limit: 12 %}
+    {% for page in movies limit: 8 %}
     {% if page.Category == 'Movie'%}
     <div class="col-md-3">
         <a href="{{page.url}}">
@@ -29,6 +29,11 @@ description: Collection of movies, actors, reviews and other related stuff.
 	{% if post.type == 'News' %}
         <div class="col-md-4">
             <div class="story">
+			    {% if post.image %}
+                  <img src="//images.weserv.nl/?url={{site.url}}{{post.image | replace: 'http://','' | replace: 'https://','' }}&w=420&output=jpg" alt="{{ post.title }}" title="{{ post.title }}" />
+                {% else %}
+                  <img src="/assets/images/meta/placeholder.png"/>
+                {% endif %}
                 <a href="{{post.url}}">
                     <h3>{{post.title}}</h3>
                 </a>
@@ -51,6 +56,11 @@ description: Collection of movies, actors, reviews and other related stuff.
 	{% if post.type == 'Review' %}
         <div class="col-md-4">
             <div class="story">
+                {% if post.image %}
+                  <img src="//images.weserv.nl/?url={{site.url}}{{post.image | replace: 'http://','' | replace: 'https://','' }}&w=420&output=jpg" alt="{{ post.title }}" title="{{ post.title }}" />
+                {% else %}
+                  <img src="/assets/images/meta/placeholder.png"/>
+                {% endif %}
                 <a href="{{post.url}}">
                     <h3>{{post.title}}</h3>
                 </a>
