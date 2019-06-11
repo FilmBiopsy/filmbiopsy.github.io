@@ -45,7 +45,7 @@ a:hover {color: #35b9ab}
 #master-section a:hover {
   text-decoration: none;
 }
-#master-section .card {margin-bottom: 1rem; transition: transform 0.5s;}
+#master-section .card {margin-bottom: 1rem; transition: transform 0.5s;z-index:1}
 #master-section .card:hover {
   transform: scale(1.05);
   transition: transform 0.5s;
@@ -116,6 +116,13 @@ a:hover {color: #35b9ab}
 }
 .stories a{
   color: #0c5460;
+}
+.story a:hover {
+    text-decoration: none;
+}
+
+.story a p {
+    color: black;
 }
 .stories .story {
   margin-bottom: 1.5rem;
