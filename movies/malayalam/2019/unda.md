@@ -10,6 +10,5 @@ Category: Movie
 genre: [thriller,action]
 permalink: /movies/malayalam/2019/unda
 image: /assets/images/post-images/unda-1.jpg
-description: Unda is a malayalam movie released on 2019, starring Mammuty directed by Ashique Abu, and written by Shyju Khalid.
-
+description: Unda is a malayalam movie released on 2019, starring Mammuty directed and co-written by Khalid Rahman.
 ---
