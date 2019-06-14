@@ -26,10 +26,10 @@ layout: compress
     <title>{{page.name}} - Box Office Collection</title>
     {% seo title=false%}
     {% elsif page.type == 'Review'%}
-    <title>{{page.title}} - 
-    Movie Review by {{page.author}}</title>
+    <title>{{page.title}} - Movie Review by {{page.author}}</title>
     {% seo title=false%}
     {% else %}
+    {% seo %}
     {% endif %}
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<script>
