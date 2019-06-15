@@ -25,9 +25,6 @@ layout: compress
     {% if page.layout == 'collection' %}
     <title>{{page.name}} - Box Office Collection</title>
     {% seo title=false%}
-    {% elsif page.type == 'Review'%}
-    <title>{{page.title}} - Movie Review by {{page.author}}</title>
-    {% seo title=false%}
     {% else %}
     {% seo %}
     {% endif %}
