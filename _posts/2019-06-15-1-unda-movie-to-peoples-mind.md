@@ -6,7 +6,7 @@ type: Review
 image: "/assets/images/post-images/unda-3.jpg"
 author: Sony Koshy
 categories: 2019-unda
-rating: 4
+rating: 4.5
 ---
 ![Unda Malayalam Movie banner two](/assets/images/post-images/unda-4.jpg)
 
