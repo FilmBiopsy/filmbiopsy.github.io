@@ -2,11 +2,11 @@
 layout: collection
 name: MadhuraRaja
 uid: 2018-ml-madhuraraja
-kerala: 58.60 Crores
-overseas: 21.50 Crores
-roi: 5.2 Crores
+kerala: 58.60 
+overseas: 21.50 
+roi: 5.2 
 dubbed: no dubbed version
-total: 85.3 Crores
+total: 85.3 
 locations:
   - name: Kerala Box Office
     denomination: Cr

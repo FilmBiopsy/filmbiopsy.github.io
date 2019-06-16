@@ -29,7 +29,7 @@ permalink: /boxoffice-collection
             {% else %}
                Not Found
             {% endif %}
-            ({{collection.total}})
+            ({{collection.total}} Crores)
             </a>
             </li>
           {% endfor %}
@@ -56,7 +56,7 @@ permalink: /boxoffice-collection
             {% else %}
                Not Found
             {% endif %}
-            ({{collection.total}})
+            ({{collection.total}} Crores)
             </a>
             </li>
           {% endfor %}

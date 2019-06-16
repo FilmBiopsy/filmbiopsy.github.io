@@ -1,11 +1,11 @@
 ---
 layout: collection
 uid: 2017-tgf
-kerala: 38.38 Crores
-overseas: 19.75 Crores
-roi: 6.90 Crores
+kerala: 38.38 
+overseas: 19.75 
+roi: 6.90 
 dubbed: no dubbed version
-total: 65.03 Crores
+total: 65.03 
 locations:
   - name: Kerala Box Office
     denomination: Cr

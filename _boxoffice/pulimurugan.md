@@ -1,11 +1,11 @@
 ---
 layout: collection
 uid: 2018-ml-pulimurugan
-kerala: 60.43 Crores
-overseas: 20.12 Crores
-roi: 5.35 Crores
-dubbed: 3.2 Crores
-total: 89.1 Crores
+kerala: 60.43 
+overseas: 20.12 
+roi: 5.35 
+dubbed: 3.2 
+total: 89.1 
 locations:
   - name: Kerala Box Office
     denomination: Cr

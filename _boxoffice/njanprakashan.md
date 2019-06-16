@@ -2,11 +2,11 @@
 layout: collection
 name: Njan Prakashan
 uid: 2018-ml-njanprakashan
-kerala: 32.47 Crores
-overseas: 18.13 Crores
-roi: 4.32 Crores
+kerala: 32.47 
+overseas: 18.13 
+roi: 4.32 
 dubbed: no dubbed version
-total: 54.92 Crores
+total: 54.92 
 locations:
   - name: Kerala Box Office
     denomination: Cr

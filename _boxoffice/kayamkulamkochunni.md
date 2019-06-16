@@ -1,11 +1,11 @@
 ---
 layout: collection
 uid: 2018-ml-kayamkulamkochunni
-kerala: 41.29 Crores
-overseas: 15.38 Crores
-roi: 4.7 Crores
+kerala: 41.29 
+overseas: 15.38 
+roi: 4.7 
 dubbed: no dubbed version
-total: 61.37 Crores
+total: 61.37 
 locations:
   - name: Kerala Box Office
     denomination: Cr

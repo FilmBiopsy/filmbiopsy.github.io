@@ -2,11 +2,11 @@
 layout: collection
 name: Abrahaminte Santhathikal
 uid: 2018-ml-abrahamintesanthathikal
-kerala: 48.92 Crores
-overseas: 14.12 Crores
-roi: 4.35 Crores
+kerala: 48.92 
+overseas: 14.12 
+roi: 4.35 
 dubbed: no dubbed version
-total: 67.39 Crores
+total: 67.39 
 locations:
   - name: Kerala Box Office
     denomination: Cr
