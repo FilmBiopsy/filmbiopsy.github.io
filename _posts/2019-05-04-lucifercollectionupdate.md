@@ -1,5 +1,5 @@
 ---
-title: "Lucifer made total bussiness of 130 Crore"
+title: "Lucifer made total business of 130 Crore"
 layout: post
 movie: 2018-lucifer
 type: News
@@ -21,8 +21,9 @@ African region & Asia Pacific region made a collective figure of 8 Crores.
 As of now, Lucifer is biggest ever grosser of Mohanlal's career surpassing Pulimurugan(89 Crore).
 We rate Lucifer 3.5 stars.
 
-As per our sources,apart from Worldwide collection of 105.5 Crores, movie has made total bussiness of 130 Crores.
-Breakdown of bussiness as follows:-
+As per our sources,apart from Worldwide collection of 105.5 Crores, movie has made total business of 130 Crores.
+
+Breakdown of business as follows:-
 Asianet:- 8 Crores 
 Dvd rights:- 5 Crores
 Online Streaming rights:- 6 Crores by Amazon Prime for Malayalam,Tamil & Telugu language,its highest online streaming rights for a malayalam movie.
