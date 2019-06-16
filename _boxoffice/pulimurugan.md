@@ -29,7 +29,7 @@ locations:
     denomination: Cr
     collection:
       - date: 17 January 2017
-        amount: 4.35
+        amount: 5.35
       
     
 ---
