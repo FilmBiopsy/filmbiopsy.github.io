@@ -1,5 +1,5 @@
 ---
-title: "MadhuraRaja has made total bussiness of 110 Crores"
+title: "MadhuraRaja has made total bussiness of 112 Crores"
 layout: post
 movie: 2018-ml-madhuraraja
 type: News
@@ -20,12 +20,13 @@ African region,Srilanka & Asia Pacific region made a collective figure of 5 Cror
 As of now, MadhuraRaja is biggest ever grosser of Mammootty's career surpassing Abrahaminte Santhathikal(67 Crore).
 We rate MadhuraRaja 3 stars.
 
-As per our sources,apart from Worldwide collection of 85.3 Crore, movie has made total bussiness of 110 Crores.
+As per our sources,apart from Worldwide collection of 85.3 Crore, movie has made total bussiness of 112 Crores.
 Breakdown of bussiness as follows:-
 Zee TV:- 14 Crores (Zee Malayalam - 10 Crore & Tamil,Telugu,Hindi dubbed TV rights for 4 Crores in Zee TV's regional channels)
 Dvd rights:- 5 Crores
 Online Streaming rights:- 5 Crores
 Audio rights- 1 Crore
 Tamil & Telugu remake rights :- yet to be disclosed. (We will update it when we get proper information regarding remake rights).
+Branding rights :- 2 Crores
 
 Please check our Boxoffice breakdown in our Boxoffice Collection section.
