@@ -22,12 +22,12 @@ We rate MadhuraRaja 3 stars.
 
 As per our sources,apart from Worldwide collection of 85.3 Crore, movie has made total business of 112 Crores.
 
-Breakdown of business as follows:-
-Zee TV:- 14 Crores (Zee Malayalam - 10 Crore & Tamil,Telugu,Hindi dubbed TV rights for 4 Crores in Zee TV's regional channels)
-Dvd rights:- 5 Crores
-Online Streaming rights:- 5 Crores
-Audio rights- 1 Crore
-Tamil & Telugu remake rights :- yet to be disclosed. (We will update it when we get proper information regarding remake rights).
-Branding :- 2 Crores
+Breakdown of business as follows:- <br/>
+Zee TV:- 14 Crores (Zee Malayalam - 10 Crore & Tamil,Telugu,Hindi dubbed TV rights for 4 Crores in Zee TV's regional channels) <br/>
+Dvd rights:- 5 Crores <br/>
+Online Streaming rights:- 5 Crores <br/>
+Audio rights- 1 Crore <br/>
+Tamil & Telugu remake rights :- yet to be disclosed. (We will update it when we get proper information regarding remake rights). <br/>
+Branding :- 2 Crores <br/>
 
 Please check our Boxoffice breakdown in our Boxoffice Collection section.
