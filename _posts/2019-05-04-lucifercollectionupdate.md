@@ -23,12 +23,12 @@ We rate Lucifer 3.5 stars.
 
 As per our sources,apart from Worldwide collection of 105.5 Crores, movie has made total business of 130 Crores.
 
-Breakdown of business as follows:-
-Asianet:- 8 Crores 
-Dvd rights:- 5 Crores
-Online Streaming rights:- 6 Crores by Amazon Prime for Malayalam,Tamil & Telugu language,its highest online streaming rights for a malayalam movie.
-Audio rights- 1 Crore
-Tamil & Telugu remake rights :- Tamil rights stands at 50 Lakhs while Telugu rights was sold for 1 Crore.
-Branding rights:- 3 Crore.
+Breakdown of business as follows:- <br/>
+Asianet:- 8 Crores <br/>
+Dvd rights:- 5 Crores <br/>
+Online Streaming rights:- 6 Crores by Amazon Prime for Malayalam,Tamil & Telugu language,its highest online streaming rights for a malayalam movie. <br/>
+Audio rights- 1 Crore <br/>
+Tamil & Telugu remake rights :- Tamil rights stands at 50 Lakhs while Telugu rights was sold for 1 Crore. <br/>
+Branding rights:- 3 Crore. <br/>
 
 Please check our Boxoffice breakdown in our Boxoffice Collection section.
